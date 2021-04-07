@@ -1,0 +1,12 @@
+body.light-mode {
+    --prime-bg: #e7e7e7;
+    --prime-text: #292931;
+    --prime-hover: #fff;
+    --prime-text-hover: #292931;
+
+    --second-bg: #dae0e7;
+    --second-text: #565656;
+    --second-hover: #fefefc;
+
+    --shadow-rgba: 0.2;
+}
